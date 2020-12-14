@@ -7,10 +7,10 @@ set -x
 IP_PRIVADA_FRONT_1=172.31.44.174
 IP_PRIVADA_FRONT_2=172.31.41.6
 #Actualizamos la lista de paquetes Ubuntu
-apt update -y
+#apt update -y
 
 #Actualizamos los paquetes instalados
-apt upgrade -y
+#apt upgrade -y
 
 #Instalamos el servidor Apache HTTP Server
 apt install apache2 -y
