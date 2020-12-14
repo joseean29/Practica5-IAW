@@ -4,8 +4,8 @@
 set -x
 
 #Declaramos las variables
-IP_PRIVADA_FRONT_1=172.31.94.54
-IP_PRIVADA_FRONT_2=172.31.56.224
+IP_PRIVADA_FRONT_1=172.31.44.174
+IP_PRIVADA_FRONT_2=172.31.41.6
 #Actualizamos la lista de paquetes Ubuntu
 apt update -y
 
